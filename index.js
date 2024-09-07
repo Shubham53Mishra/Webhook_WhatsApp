@@ -76,7 +76,7 @@ axios({
         messaging_product: "whatsapp",
                     to: from,
                     text: {
-                        body: `Hi! I'm Prasath. Your message is: ${messageBody}`
+                        body: `Hi! I'm Ridobiko. Your message is: ${messageBody}`
                     }
                 },
                 headers: {
