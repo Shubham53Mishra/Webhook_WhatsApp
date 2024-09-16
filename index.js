@@ -139,5 +139,5 @@ app.get('/latest_messages', async (req, res) => {
 
 // Basic endpoint to confirm server is running
 app.get("/", (req, res) => {
-    res.status(200).send("Hello, this is the webhook setup");
+    res.status(200).send("Hello sir, this is the webhook setup ");
 });
